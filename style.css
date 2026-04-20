@@ -35,11 +35,9 @@
          ------------------------- */
       .container{
         margin:0;
-        padding-top:10px;
         width:100%;
         max-width:var(--maxw);
         margin-inline:auto;
-        padding-inline:20px;
       }
 
   
