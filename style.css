@@ -2,7 +2,7 @@
        Base: Typography & Reset
        ------------------------- */
        :root{
-        --bg:#ffffff;
+        --bg:#000000;
         --fg:#111111;
         --muted:#6e6e73;
         --link:#06c;
